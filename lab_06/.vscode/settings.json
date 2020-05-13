@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mainhead.h": "c",
+        "structuretree.h": "c",
+        "mainfile.h": "c"
+    }
+}
